@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "9ff7db9a3253bbae",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac260e6014b623d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a51160fbc856cf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вопросы собеседований/9. File Upload.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9. File Upload"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99021044b99e458f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2181a4e4a3af65cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "466edc177f68777e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "d74673164804a05d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a115420654eaf30c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "d124ca65372acca9",
+    "type": "split",
+    "children": [
+      {
+        "id": "25fecc9bb9f8421a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2659524347b71db8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Вопросы собеседований/9. File Upload.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для 9. File Upload"
+            }
+          },
+          {
+            "id": "39b4461c2bf70fa3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Вопросы собеседований/9. File Upload.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из 9. File Upload"
+            }
+          },
+          {
+            "id": "b0b37dc4643203fd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "c17600fcd0459702",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Вопросы собеседований/9. File Upload.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура 9. File Upload"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "5a51160fbc856cf1",
+  "lastOpenFiles": [
+    "Вопросы собеседований/9.1. Примеры малициозных скриптов.md",
+    "Вопросы собеседований/9. File Upload.md",
+    "Вопросы собеседований/8. SQL - Prepared Statements.md",
+    "Вопросы собеседований/7. Криптография.md",
+    "Вопросы собеседований/1. CSP, SOP, CORS.md",
+    "Вопросы собеседований/6. JWT.md",
+    "Вопросы собеседований/5. SSRF - защита и последствия.md",
+    "Вопросы собеседований/4. Атрибуты Cookie.md",
+    "Вопросы собеседований/3. Импакт через XSS на сабдомене.md",
+    "Assets/Origin Policy.png",
+    "Assets/Site Scheme.png",
+    "Assets/MITTR&AKK 2.png",
+    "Assets/MITTR&AKK 1.png",
+    "Assets/OWASP Top 10 API.png",
+    "Assets/OWASP Top 10 Mobile.png",
+    "Assets/OWASP Top 10 web.png",
+    "Assets/Pre-fight Requests 1.png",
+    "Assets/Pre-fight Requests.png",
+    "Вопросы собеседований/2. Как хранить пароли.md",
+    "Метрики/Моделирование угроз по ФСТЭК.canvas",
+    "Вопросы собеседований",
+    "Assets/Pasted image 20240602175745.png",
+    "Метрики",
+    "Метрики/MITRE ATT&CK.canvas",
+    "Метрики/OWASP Top 10.canvas",
+    "Assets",
+    "Добро пожаловать.md",
+    "Метрики/Моделирование угроз по STRIDE и DREAD.canvas"
+  ]
+}

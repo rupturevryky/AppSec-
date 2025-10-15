@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"1ee4374b4506462a","x":-620,"y":-80,"width":460,"height":200,"type":"text","text":"## Spoofing (Подделка идентичности)\n\nриски, связанные с подделкой личности пользователя или ресурса."},
+		{"id":"efd2f54641d02ac5","type":"text","text":"## Tampering (Изменение данных)\n\nнарушения целостности данных, включая возможность их умышленного искажения.\n\nриски, связанные с подделкой личности пользователя или ресурса.","x":-620,"y":160,"width":460,"height":200},
+		{"id":"409a9501893d6459","type":"text","text":"## Repudiation (Отказ от обязательств)\n\nситуации, когда пользователи отрицают выполнение определенных действий.","x":-620,"y":400,"width":460,"height":200},
+		{"id":"87dff3ce12b4286f","x":-40,"y":-80,"width":460,"height":200,"type":"text","text":"## Information disclosure (Раскрытие информации)\n\nнарушения конфиденциальности, подразумевающая несанкционированный доступ к данным."},
+		{"id":"722461a03a766287","type":"text","text":"## Denial of service (Отказ в обслуживании)\n\nатаки, направленные на снижение доступности ресурсов путем перегрузки серверов.","x":-40,"y":160,"width":460,"height":200},
+		{"id":"a4549c706fd6cc52","type":"text","text":"## Escalation of privilege (Эскалация привилегий)\n\nинциденты, возникающие вследствие возможности повышения уровня полномочий злоумышленником.","x":-40,"y":400,"width":460,"height":200},
+		{"id":"63c37a70bdda2871","x":-620,"y":-240,"width":1040,"height":100,"color":"5","type":"text","text":"# STRIDE - помогает определить типы угроз"},
+		{"id":"4bdc42667a7009d7","type":"text","text":"# **DREAD** — количественная оценка уровня риска каждой выявленной угрозы","x":560,"y":-240,"width":1040,"height":100,"color":"5"},
+		{"id":"a93ddae3bb9d7755","type":"text","text":"## Damage potential (Потенциальный ущерб)\n\nстепень возможного ущерба в результате успешной атаки.","x":560,"y":-80,"width":460,"height":200},
+		{"id":"badd56176578c351","type":"text","text":"## Reproducibility (Воспроизводимость)\n\nнасколько легко повторить атаку повторно.","x":560,"y":160,"width":460,"height":200},
+		{"id":"8c29ae236a1bc7c5","type":"text","text":"## Exploitability (Эксплуатируемость)\n\nпростота осуществления атаки.","x":560,"y":400,"width":460,"height":200},
+		{"id":"272abb5f365c6509","type":"text","text":"## Affected users (Количество пострадавших пользователей)\n\nмасштаб потенциального воздействия угрозы.","x":1140,"y":-80,"width":460,"height":200},
+		{"id":"e4f3f5f02e2ee8c2","type":"text","text":"## Discoverability (Обнаруживаемость)\n\nвероятность обнаружения уязвимости атакующим.","x":1140,"y":160,"width":460,"height":200}
+	],
+	"edges":[
+		{"id":"aaf14483307783b3","fromNode":"1ee4374b4506462a","fromSide":"bottom","toNode":"efd2f54641d02ac5","toSide":"top"},
+		{"id":"8acf08aba9e5096a","fromNode":"efd2f54641d02ac5","fromSide":"bottom","toNode":"409a9501893d6459","toSide":"top"},
+		{"id":"4ebdb1dfddcc9b41","fromNode":"409a9501893d6459","fromSide":"right","toNode":"87dff3ce12b4286f","toSide":"left"},
+		{"id":"9120cfa92aa4dc90","fromNode":"87dff3ce12b4286f","fromSide":"bottom","toNode":"722461a03a766287","toSide":"top"},
+		{"id":"ea77c97ef9f2cd17","fromNode":"722461a03a766287","fromSide":"bottom","toNode":"a4549c706fd6cc52","toSide":"top"},
+		{"id":"8c0b9e95876d7bb5","fromNode":"63c37a70bdda2871","fromSide":"left","toNode":"1ee4374b4506462a","toSide":"left"},
+		{"id":"e226eb2e11b234af","fromNode":"a93ddae3bb9d7755","fromSide":"bottom","toNode":"badd56176578c351","toSide":"top"},
+		{"id":"d6c2d0248707e458","fromNode":"badd56176578c351","fromSide":"bottom","toNode":"8c29ae236a1bc7c5","toSide":"top"},
+		{"id":"187ab3559cbe861b","fromNode":"8c29ae236a1bc7c5","fromSide":"right","toNode":"272abb5f365c6509","toSide":"left"},
+		{"id":"95c95918f7eea33a","fromNode":"272abb5f365c6509","fromSide":"bottom","toNode":"e4f3f5f02e2ee8c2","toSide":"top"},
+		{"id":"fa3bfa2268dab64d","fromNode":"4bdc42667a7009d7","fromSide":"left","toNode":"a93ddae3bb9d7755","toSide":"left"}
+	]
+}
