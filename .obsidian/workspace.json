@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы собеседований/9. File Upload.md",
+                "file": "Вопросы собеседований/5. SSRF - защита и последствия.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "9. File Upload"
+              "title": "5. SSRF - защита и последствия"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы собеседований/9. File Upload.md",
+                "file": "Вопросы собеседований/5. SSRF - защита и последствия.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 9. File Upload"
+              "title": "Структура 5. SSRF - защита и последствия"
             }
           }
         ],
@@ -171,15 +171,19 @@
   },
   "active": "5a51160fbc856cf1",
   "lastOpenFiles": [
-    "Вопросы собеседований/9.1. Примеры малициозных скриптов.md",
-    "Вопросы собеседований/9. File Upload.md",
-    "Вопросы собеседований/8. SQL - Prepared Statements.md",
-    "Вопросы собеседований/7. Криптография.md",
-    "Вопросы собеседований/1. CSP, SOP, CORS.md",
-    "Вопросы собеседований/6. JWT.md",
-    "Вопросы собеседований/5. SSRF - защита и последствия.md",
     "Вопросы собеседований/4. Атрибуты Cookie.md",
     "Вопросы собеседований/3. Импакт через XSS на сабдомене.md",
+    "Вопросы собеседований/2. Как хранить пароли.md",
+    "Вопросы собеседований/12. Соль и перец.md",
+    "Вопросы собеседований/1. CSP, SOP, CORS.md",
+    "Вопросы собеседований/11. Авторизация и аутентификация.md",
+    "Вопросы собеседований/10. Race Condition и защита.md",
+    "Вопросы собеседований/9. File Upload.md",
+    "Вопросы собеседований/9.1. Примеры малициозных скриптов.md",
+    "Вопросы собеседований/8. SQL - Prepared Statements.md",
+    "Вопросы собеседований/7. Криптография.md",
+    "Вопросы собеседований/6. JWT.md",
+    "Вопросы собеседований/5. SSRF - защита и последствия.md",
     "Assets/Origin Policy.png",
     "Assets/Site Scheme.png",
     "Assets/MITTR&AKK 2.png",
@@ -189,7 +193,6 @@
     "Assets/OWASP Top 10 web.png",
     "Assets/Pre-fight Requests 1.png",
     "Assets/Pre-fight Requests.png",
-    "Вопросы собеседований/2. Как хранить пароли.md",
     "Метрики/Моделирование угроз по ФСТЭК.canvas",
     "Вопросы собеседований",
     "Assets/Pasted image 20240602175745.png",
