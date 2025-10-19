@@ -11,17 +11,14 @@
             "id": "5a51160fbc856cf1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
-                "viewState": {
-                  "x": 490,
-                  "y": 180,
-                  "zoom": -1.1999216034562985
-                }
+                "file": "Анализ уязвимостей в коде/1. Flask - python.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "15. Моделирование угроз по STRIDE и DREAD"
+              "icon": "lucide-file",
+              "title": "1. Flask - python"
             }
           },
           {
@@ -159,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
+                "file": "Анализ уязвимостей в коде/1. Flask - python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 15. Моделирование угроз по STRIDE и DREAD"
+              "title": "Структура 1. Flask - python"
             }
           }
         ],
@@ -186,10 +183,13 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "466edc177f68777e",
+  "active": "5a51160fbc856cf1",
   "lastOpenFiles": [
-    "Метрики в canvas/15. Моделирование угроз по ФСТЭК.canvas",
     "Вопросы собеседований/15. Оценка рисков.md",
+    "Анализ уязвимостей в коде/1. Flask - python.md",
+    "Анализ уязвимостей в коде",
+    "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
+    "Метрики в canvas/15. Моделирование угроз по ФСТЭК.canvas",
     "Вопросы собеседований/11. Авторизация и аутентификация.md",
     "Assets/OAuth 2.png",
     "Вопросы собеседований/5. SSRF - защита и последствия.md",
@@ -222,7 +222,6 @@
     "Метрики в canvas/MITRE ATT&CK.canvas",
     "Метрики в canvas/OWASP Top 10.canvas",
     "Assets",
-    "Добро пожаловать.md",
-    "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas"
+    "Добро пожаловать.md"
   ]
 }
