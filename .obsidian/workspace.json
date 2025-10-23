@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вопросы собеседований/15. Оценка рисков, моделирование процессов.md",
+                "file": "Junior Level/0. SQL Injection. Полное руководство.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "15. Оценка рисков, моделирование процессов"
+              "title": "0. SQL Injection. Полное руководство"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Вопросы собеседований/15. Оценка рисков, моделирование процессов.md",
+                "file": "Junior Level/0. SQL Injection. Полное руководство.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 15. Оценка рисков, моделирование процессов"
+              "title": "Структура 0. SQL Injection. Полное руководство"
             }
           }
         ],
@@ -171,25 +171,33 @@
   },
   "active": "027237a4f29f3980",
   "lastOpenFiles": [
+    "Junior Level/15. Оценка рисков, моделирование процессов.md",
+    "Junior Level/16. Уязвимости второго порядка.md",
+    "Middle Level/SSI attack.md",
+    "Junior Level/0. SQL Injection. Полное руководство.md",
+    "Assets/SSTI.png",
+    "Middle Level/1. XSLT vs XXE.md",
+    "Junior Level/Middle Level.md",
+    "Middle Level",
+    "Junior Level/6. DNS Rebinding.md",
+    "Junior Level/14. Роль IP Gateway.md",
+    "Junior Level/13. Соль и перец.md",
+    "Junior Level/12. Авторизация и аутентификация.md",
+    "Junior Level/11. Race Condition и защита.md",
+    "Junior Level/10. SQL - Prepared Statements.md",
+    "Junior Level/8. Криптография.md",
+    "Junior Level/7.1. Что если компрометируется секрет для всех сессионных JWT токенов.md",
+    "Junior Level/7. JWT.md",
     "Анализ уязвимостей в коде/2. Анализ URL на наличие уязвимостей.md",
-    "Вопросы собеседований/13. Роль IP Gateway.md",
-    "Вопросы собеседований/12. Соль и перец.md",
-    "Вопросы собеседований/11. Авторизация и аутентификация.md",
-    "Вопросы собеседований/10. Race Condition и защита.md",
-    "Вопросы собеседований/9.1. Примеры малициозных скриптов.md",
-    "Вопросы собеседований/9. File Upload.md",
-    "Вопросы собеседований/8. SQL - Prepared Statements.md",
-    "Вопросы собеседований/7. Криптография.md",
-    "Вопросы собеседований/6.1. Что если компрометируется секрет для всех сессионных JWT токенов.md",
-    "Вопросы собеседований/6. JWT.md",
-    "Вопросы собеседований/5. SSRF - защита и последствия.md",
-    "Вопросы собеседований/4. Атрибуты Cookie.md",
-    "Вопросы собеседований/3.1. XSS → RCE.md",
-    "Вопросы собеседований/3. Импакт через XSS на сабдомене.md",
-    "Вопросы собеседований/2. Как хранить пароли.md",
-    "Вопросы собеседований/1. CSP, SOP, CORS.md",
+    "Junior Level/9.1. Примеры малициозных скриптов.md",
+    "Junior Level/9. File Upload.md",
+    "Junior Level/5. SSRF - защита и последствия.md",
+    "Junior Level/4. Атрибуты Cookie.md",
+    "Junior Level/3.1. XSS → RCE.md",
+    "Junior Level/3. Импакт через XSS на сабдомене.md",
+    "Junior Level/2. Как хранить пароли.md",
+    "Junior Level/1. CSP, SOP, CORS.md",
     "Анализ уязвимостей в коде/1. Flask - python.md",
-    "Вопросы собеседований/15. Оценка рисков, моделирование процессов.md",
     "Assets/BPMN.png",
     "Анализ уязвимостей в коде",
     "Метрики в canvas/15. Моделирование угроз по STRIDE и DREAD.canvas",
@@ -203,12 +211,10 @@
     "Assets/OWASP Top 10 API.png",
     "Assets/OWASP Top 10 Mobile.png",
     "Assets/OWASP Top 10 web.png",
-    "Assets/Pre-fight Requests 1.png",
-    "Вопросы собеседований",
+    "Junior Level",
     "Метрики в canvas",
     "Метрики в canvas/MITRE ATT&CK.canvas",
     "Метрики в canvas/OWASP Top 10.canvas",
-    "Assets",
-    "Добро пожаловать.md"
+    "Assets"
   ]
 }
